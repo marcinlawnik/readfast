@@ -31,7 +31,7 @@
           <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="57" selection-start="739" selection-end="739" vertical-scroll-proportion="0.4023845" vertical-offset="0" max-vertical-offset="1296">
+                <state line="31" column="58" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.7242921" vertical-offset="72" max-vertical-offset="1242">
                   <folding />
                 </state>
               </provider>
@@ -472,7 +472,11 @@
       <created>1410507767027</created>
       <updated>1410507767027</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1410508006814</created>
+      <updated>1410508006814</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -645,7 +649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="57" selection-start="739" selection-end="739" vertical-scroll-proportion="0.4023845" vertical-offset="0" max-vertical-offset="1296">
+        <state line="31" column="58" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.7242921" vertical-offset="72" max-vertical-offset="1242">
           <folding />
         </state>
       </provider>
