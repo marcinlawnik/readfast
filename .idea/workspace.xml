@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c19467a-3e5e-4d10-aa23-f7e6d1b50e41" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readfast/www/config.xml" afterPath="$PROJECT_DIR$/readfast/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readfast/www/css/codepen-spritz.css" afterPath="$PROJECT_DIR$/readfast/www/css/codepen-spritz.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readfast/www/js/codepen-spritz.js" afterPath="$PROJECT_DIR$/readfast/www/js/codepen-spritz.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="readfast.iws" />
@@ -25,96 +26,75 @@
     <favorites_list name="readfast" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4208589">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="31" column="58" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.7242921" vertical-offset="72" max-vertical-offset="1242">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="config.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/readfast/.cordova/config.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="252">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/readfast/www/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="48" column="46" selection-start="2593" selection-end="2593" vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="1512">
-                  <folding>
-                    <marker date="1410501789449" expanded="true" signature="1124:1350" placeholder="..." />
-                    <marker date="1410501789449" expanded="true" signature="1947:1978" placeholder="..." />
-                    <marker date="1410501789449" expanded="true" signature="2086:2364" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/readfast/www/js/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="54" column="28" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.0" vertical-offset="972" max-vertical-offset="1170">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/readfast/www/css/index.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="28" column="7" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="648">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="codepen-spritz.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/readfast/www/js/codepen-spritz.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="221" column="27" selection-start="5210" selection-end="5210" vertical-scroll-proportion="-9.296296" vertical-offset="3673" max-vertical-offset="5490">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="codepen-spritz.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/readfast/www/css/codepen-spritz.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="136" column="18" selection-start="2627" selection-end="2627" vertical-scroll-proportion="-29.962963" vertical-offset="1639" max-vertical-offset="7650">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/readfast/www/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="29" column="0" selection-start="1393" selection-end="1738" vertical-scroll-proportion="0.7837838" vertical-offset="0" max-vertical-offset="1512">
-                  <folding>
-                    <marker date="1410501789449" expanded="true" signature="1124:1350" placeholder="..." />
-                    <marker date="1410501789449" expanded="true" signature="1947:1978" placeholder="..." />
-                    <marker date="1410501789449" expanded="true" signature="2086:2364" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readfast/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="46" selection-start="2593" selection-end="2593" vertical-scroll-proportion="-23.851852" vertical-offset="220" max-vertical-offset="1512">
+              <folding>
+                <marker date="1410501789449" expanded="true" signature="1124:1350" placeholder="..." />
+                <marker date="1410501789449" expanded="true" signature="1947:1978" placeholder="..." />
+                <marker date="1410501789449" expanded="true" signature="2086:2364" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="47" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readfast/www/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="28" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.0" vertical-offset="158" max-vertical-offset="864">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readfast/www/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="7" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codepen-spritz.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readfast/www/js/codepen-spritz.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="32" selection-start="1030" selection-end="1030" vertical-scroll-proportion="31.333334" vertical-offset="1494" max-vertical-offset="5688">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codepen-spritz.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readfast/www/css/codepen-spritz.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="136" column="19" selection-start="2628" selection-end="2628" vertical-scroll-proportion="0.43243244" vertical-offset="2160" max-vertical-offset="7650">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readfast/.cordova/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="252">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -146,10 +126,10 @@
         <option value="$PROJECT_DIR$/readfast/www/js/prefixfree.min.js" />
         <option value="$PROJECT_DIR$/readfast/www/css/index.css" />
         <option value="$PROJECT_DIR$/readfast/www/js/index.js" />
-        <option value="$PROJECT_DIR$/readfast/www/js/codepen-spritz.js" />
         <option value="$PROJECT_DIR$/readfast/www/index.html" />
-        <option value="$PROJECT_DIR$/readfast/www/css/codepen-spritz.css" />
         <option value="$PROJECT_DIR$/readfast/www/config.xml" />
+        <option value="$PROJECT_DIR$/readfast/www/css/codepen-spritz.css" />
+        <option value="$PROJECT_DIR$/readfast/www/js/codepen-spritz.js" />
       </list>
     </option>
   </component>
@@ -476,7 +456,11 @@
       <created>1410508006814</created>
       <updated>1410508006814</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1410508045274</created>
+      <updated>1410508045274</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -596,35 +580,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readfast/www/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="7" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readfast/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="28" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="143" column="28" selection-start="3587" selection-end="3587" vertical-scroll-proportion="0.6172662" vertical-offset="2145" max-vertical-offset="8712" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readfast/www/js/codepen-spritz.js">
+    <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="221" column="27" selection-start="5210" selection-end="5210" vertical-scroll-proportion="-9.296296" vertical-offset="3673" max-vertical-offset="5490">
+        <state line="25" column="47" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readfast/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="46" selection-start="2593" selection-end="2593" vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="1512">
+        <state line="48" column="46" selection-start="2593" selection-end="2593" vertical-scroll-proportion="-23.851852" vertical-offset="220" max-vertical-offset="1512">
           <folding>
             <marker date="1410501789449" expanded="true" signature="1124:1350" placeholder="..." />
             <marker date="1410501789449" expanded="true" signature="1947:1978" placeholder="..." />
@@ -633,9 +603,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readfast/www/css/codepen-spritz.css">
+    <entry file="file://$PROJECT_DIR$/readfast/www/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="18" selection-start="2627" selection-end="2627" vertical-scroll-proportion="-29.962963" vertical-offset="1639" max-vertical-offset="7650">
+        <state line="28" column="7" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
           <folding />
         </state>
       </provider>
@@ -647,9 +617,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
+    <entry file="file://$PROJECT_DIR$/readfast/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="58" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.7242921" vertical-offset="72" max-vertical-offset="1242">
+        <state line="54" column="28" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readfast/www/js/codepen-spritz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="32" selection-start="1030" selection-end="1030" vertical-scroll-proportion="31.333334" vertical-offset="1494" max-vertical-offset="5688">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readfast/www/css/codepen-spritz.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="19" selection-start="2628" selection-end="2628" vertical-scroll-proportion="0.43243244" vertical-offset="2160" max-vertical-offset="7650">
           <folding />
         </state>
       </provider>

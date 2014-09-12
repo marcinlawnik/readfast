@@ -36,7 +36,14 @@ function words_load() {
         };
         $wpm.val(local_spritz.wpm);
         interval = 60000/local_spritz.wpm;
-        spritz_zoom(0);
+
+        if (local_spritz.zoom) {
+            zoom = local_spritz.zoom;
+            spritz_zoom_set(zoom);
+        } else {
+            spritz_zoom(0);
+        }
+
         words_set();
         word_show(i);
         word_update();
@@ -165,10 +172,14 @@ function spritz_forward() {
     };
 }
 
+function spritz_zoom_set(s){
+    $('#spritz').css('font-size', s+'em');
+}
+
 /* WORDS FUNCTIONS */
 function spritz_zoom(c) {
-    zoom = zoom+c;
-    if(zoom >= 0.7 && zoom <= 4){
+    if(zoom+c > 0.6 && zoom+c < 4.2){
+        zoom = zoom+c;
         $('#spritz').css('font-size', zoom+'em');
     }
 }
