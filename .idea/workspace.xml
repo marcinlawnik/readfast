@@ -2,128 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c19467a-3e5e-4d10-aa23-f7e6d1b50e41" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/.pgbomit" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/icon/windows-phone/icon-173-tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/icon/android/icon-36-ldpi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/icon/android/icon-48-mdpi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/icon/windows-phone/icon-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/icon/windows-phone/icon-62-tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/icon/android/icon-72-hdpi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/icon/blackberry/icon-80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/icon/android/icon-96-xhdpi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/blackberry/screen-225.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/android/screen-hdpi-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/android/screen-hdpi-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/android/screen-ldpi-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/android/screen-ldpi-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/android/screen-mdpi-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/android/screen-mdpi-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/windows-phone/screen-portrait.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/android/screen-xhdpi-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/res/screen/android/screen-xhdpi-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/ios/APPLocalNotification.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/ios/APPLocalNotification.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/src/wp8/Insomnia.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/src/ios/Insomnia.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/src/android/nl/xservices/plugins/Insomnia.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/www/Insomnia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/src/ios/Insomnia.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/wp8/LocalNotification.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/android/LocalNotification.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/wp8/Options.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/android/Options.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/hooks/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/android/Receiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/android/ReceiverActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/src/android/Restore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/css/codepen-spritz.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/js/codepen-spritz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/.cordova/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/spec/helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/spec/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/src/firefoxos/insomnia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/spec/lib/jasmine-1.2.0/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/spec/lib/jasmine-1.2.0/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/spec/lib/jasmine-1.2.0/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/de.appplant.cordova.plugin.local-notification/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/plugins/nl.x-services.plugins.insomnia/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/js/prefixfree.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readfast/www/spec.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.cordova/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hooks/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/.pgbomit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/bada-wac/icon-48-type5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/bada-wac/icon-50-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/bada-wac/icon-80-type4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/bada/icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/blackberry/icon-80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-57-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-72-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/ios/icon-72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/tizen/icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/webos/icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-xhdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-xhdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada-wac/screen-type5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/bada/screen-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/blackberry/screen-225.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-568h-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/tizen/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/webos/screen-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/res/screen/windows-phone/screen-portrait.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine-html.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/spec/lib/jasmine-1.2.0/jasmine.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readfast/www/config.xml" afterPath="$PROJECT_DIR$/readfast/www/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="readfast.iws" />
@@ -149,19 +28,19 @@
     <splitter split-orientation="horizontal" split-proportion="0.4208589">
       <split-first>
         <leaf>
-          <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="35" column="57" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1278">
+                <state line="37" column="83" selection-start="2043" selection-end="2043" vertical-scroll-proportion="0.34873325" vertical-offset="432" max-vertical-offset="1278">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="config.json" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="config.json" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/readfast/.cordova/config.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="252">
                   <folding />
                 </state>
               </provider>
@@ -223,7 +102,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/readfast/www/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="29" column="0" selection-start="1393" selection-end="1738" vertical-scroll-proportion="0.7814371" vertical-offset="0" max-vertical-offset="1512">
+                <state line="29" column="0" selection-start="1393" selection-end="1738" vertical-scroll-proportion="0.7837838" vertical-offset="0" max-vertical-offset="1512">
                   <folding>
                     <marker date="1410501789449" expanded="true" signature="1124:1350" placeholder="..." />
                     <marker date="1410501789449" expanded="true" signature="1947:1978" placeholder="..." />
@@ -241,6 +120,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -582,14 +464,20 @@
       <created>1410433494860</created>
       <updated>1410433494860</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1410505971147</created>
+      <updated>1410505971147</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1920" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21891604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21938232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -620,6 +508,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -676,7 +566,9 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="40.923077" vertical-offset="1064" max-vertical-offset="1656" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="40.923077" vertical-offset="1064" max-vertical-offset="1656">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readfast/www/js/jquery.min.js">
@@ -739,16 +631,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
+    <entry file="file://$PROJECT_DIR$/readfast/.cordova/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="57" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1278">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="673">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readfast/.cordova/config.json">
+    <entry file="file://$PROJECT_DIR$/readfast/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="673">
+        <state line="37" column="83" selection-start="2043" selection-end="2043" vertical-scroll-proportion="0.34873325" vertical-offset="432" max-vertical-offset="1278">
           <folding />
         </state>
       </provider>

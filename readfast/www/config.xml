@@ -35,7 +35,7 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="nl.x-services.plugins.insomnia" version="4.0.1" />
-    <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.2" />
+    <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.4" />
     <!-- Plugins -->
     <!-- for Android -->
     <!--<feature name="Insomnia">-->
